@@ -1,68 +1,81 @@
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
+  <img src="assets/hero.gif" width="100%" alt="Da fábrica ao digital. João Paulo Araújo Passos — Engenharia de Processos, Desenvolvimento de Sistemas e fundador da NADA Studio.">
+</picture>
+
 <p align="center">
-  <img src="assets/profile-banner.gif" alt="João Paulo — Engenharia de Processos + Software. Da operação ao código, do problema à solução." width="100%">
+  <a href="https://www.nadastudio.com.br"><strong>NADA STUDIO ↗</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="#projetos-selecionados"><strong>PROJETOS</strong></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/nada-studio-br"><strong>EMPRESA NO GITHUB</strong></a>
 </p>
 
-<h1 align="center">João Paulo Araújo Passos</h1>
-<p align="center"><strong>Engenharia de Processos · Desenvolvimento de Sistemas · Fundador da NADA Studio</strong></p>
-<p align="center">
-  <a href="https://www.nadastudio.com.br">Conheça a NADA Studio ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/nada-studio-br">Projetos da empresa</a> &nbsp;·&nbsp;
-  <a href="#projetos-abertos">Explore meus projetos</a>
-</p>
+## O processo é meu ponto de partida.
 
----
+Sou **João Paulo**, profissional de Engenharia de Processos, estudante de Engenharia de Produção e fundador da **NADA Studio**, em Jundiaí–SP.
 
-### Entendo o processo. Construo a ferramenta.
+Meu trabalho começa entendendo a operação: quem executa, onde trava e o que precisa mudar. A partir disso, desenvolvo **sistemas, automações e experiências digitais** para produção, gestão e negócios.
 
-Sou profissional de Engenharia de Processos e estudante de Engenharia de Produção, em Jundiaí–SP. Desenvolvo software a partir de problemas que encontro na operação: tarefas repetitivas, informações dispersas, falta de rastreabilidade e controles manuais.
+**Na engenharia**, trabalho com melhoria de processos, desenho técnico, dispositivos, qualidade e rastreabilidade. **No software**, transformo esse contexto em aplicações que as pessoas conseguem usar no dia a dia.
 
-Na **[NADA Studio](https://www.nadastudio.com.br)**, conecto essa experiência à criação de sites, sistemas e automações para empresas. Meu trabalho une análise do problema, implementação, testes e documentação.
+## Projetos selecionados
 
-| Engenharia e operação | Software e automação | Negócios digitais |
-| :--- | :--- | :--- |
-| Melhoria e padronização de processos | Sistemas web e ferramentas internas | Sites e experiências de conversão |
-| Produção, qualidade e rastreabilidade | APIs, integrações e automações | Mensuração e análise de dados |
-| Desenho técnico, dispositivos e gabaritos | Python, bancos de dados e IA aplicada | Soluções para pequenos negócios |
-
-### Projetos abertos
-
-| Projeto | O que você encontra |
-| :--- | :--- |
-| **[NADA Studio](https://github.com/HSHAKOA/nada-studio)** | Presença digital da empresa: desenvolvimento web, apresentação dos serviços e portfólio. |
-| **[Transcritor de reuniões](https://github.com/HSHAKOA/Agente-de-transcrito-de-reuni-es-)** | Captura e transcrição de áudio com Python, processamento em blocos e documentação. **Licença Apache-2.0.** |
-| **[Barcode Python Acadêmico](https://github.com/HSHAKOA/barcode-python-academico)** | Apontamento de produção, estoque e histórico com Code 128, Tkinter e SQLite. Edição acadêmica com dados fictícios. |
-| **[Reconhecimento de gestos](https://github.com/HSHAKOA/reconhecimento-gestos-python)** | Visão computacional em tempo real com Python, OpenCV e MediaPipe. |
-| **[MarkItDown Converter](https://github.com/HSHAKOA/markitdown-converter)** | Conversão de documentos para Markdown usando a biblioteca MarkItDown. |
-| **[Vitrine Esporte](https://github.com/HSHAKOA/vitrine-esporte)** | Template de catálogo esportivo desenvolvido pela NADA Studio. |
+<a href="https://github.com/HSHAKOA/nada-studio"><img src="assets/studio.svg" width="49%" alt="NADA Studio — sites, sistemas e automações para empresas. Next.js, React e TypeScript."></a>
+<a href="https://github.com/HSHAKOA/Agente-de-transcrito-de-reuni-es-"><img src="assets/transcritor.svg" width="49%" alt="Transcritor de reuniões — captura e transcrição de áudio com Python. Licença Apache-2.0."></a>
+<br>
+<a href="https://github.com/HSHAKOA/barcode-python-academico"><img src="assets/barcode.svg" width="49%" alt="Barcode acadêmico — apontamento de produção, estoque e histórico. Python, Tkinter e SQLite, com dados fictícios."></a>
+<a href="https://github.com/HSHAKOA/reconhecimento-gestos-python"><img src="assets/gestos.svg" width="49%" alt="Visão computacional — reconhecimento de gestos em tempo real com Python, OpenCV e MediaPipe."></a>
 
 <details>
-<summary><strong>Ver uma demonstração do projeto acadêmico de barcode</strong></summary>
+<summary><strong>▶ Veja o barcode acadêmico funcionando</strong></summary>
 
 <br>
 
-![Demonstração acadêmica: leitura de etiquetas, estoque, histórico e resumo com dados fictícios](https://raw.githubusercontent.com/HSHAKOA/barcode-python-academico/main/assets/demo_fluxo_academico.gif)
+![Demonstração com dados fictícios: etiqueta Code 128, leitura, estoque e histórico](https://raw.githubusercontent.com/HSHAKOA/barcode-python-academico/main/assets/demo_fluxo_academico.gif)
 
-[Veja a documentação e as capturas reais →](https://github.com/HSHAKOA/barcode-python-academico#readme)
+[Documentação, instalação e capturas reais →](https://github.com/HSHAKOA/barcode-python-academico#readme)
 
 </details>
 
-### Além dos repositórios públicos
+<details>
+<summary><strong>＋ Mais projetos públicos</strong></summary>
 
-Também desenvolvo soluções para **planejamento e controle da produção, extrusão de PVC, rastreabilidade, gestão APQP/PPAP, agendamentos e integrações comerciais**. Parte desse trabalho está em repositórios privados por envolver operações internas ou projetos de clientes.
+- **[MarkItDown Converter](https://github.com/HSHAKOA/markitdown-converter)** — conversão de documentos para Markdown usando MarkItDown.
+- **[Vitrine Esporte](https://github.com/HSHAKOA/vitrine-esporte)** — template de catálogo esportivo da NADA Studio.
+- **[Salute Sports](https://github.com/HSHAKOA/salute-sports-site)** — catálogo com pedido via WhatsApp.
 
-### Ferramentas que uso
+</details>
 
-**Web:** TypeScript · JavaScript · React · Next.js · HTML · CSS  
-**Automação e dados:** Python · Node.js · APIs REST · PostgreSQL · SQLite · Supabase · n8n  
-**Entrega:** Git · GitHub · Cloudflare Workers · Vercel  
-**Engenharia e análise:** SolidWorks · AutoCAD · Power BI · OpenCV · MediaPipe
+## Onde aplico o que construo
 
-Uso IA para apoiar desenvolvimento e automação, com revisão de código, testes e atenção ao contexto de cada aplicação.
+| Na operação industrial | No negócio digital |
+| :--- | :--- |
+| Planejamento e controle de produção | Sites e sistemas para empresas |
+| Extrusão de PVC e rastreabilidade | Agendamentos e fluxos de atendimento |
+| Qualidade e gestão APQP/PPAP | Integrações e automação de tarefas |
+| Desenho técnico, dispositivos e gabaritos | Mensuração, dados e conversão |
+
+Parte desses projetos permanece privada por envolver operações internas e trabalhos de clientes.
+
+## Meu ambiente de trabalho
+
+**DESENVOLVIMENTO WEB**  
+`TypeScript` `JavaScript` `React` `Next.js` `HTML` `CSS`
+
+**AUTOMAÇÃO · DADOS · INFRAESTRUTURA**  
+`Python` `Node.js` `PostgreSQL` `SQLite` `Supabase` `n8n`  
+`APIs REST` `Cloudflare Workers` `Vercel` `Git` `GitHub`
+
+**ENGENHARIA · ANÁLISE · VISÃO COMPUTACIONAL**  
+`SolidWorks` `AutoCAD` `Power BI` `OpenCV` `MediaPipe`
+
+Uso IA no desenvolvimento e na automação, acompanhada de **revisão, testes e documentação**.
 
 ---
 
-### Vamos transformar um processo em uma solução?
+<a href="https://www.nadastudio.com.br"><img src="assets/studio-band.svg" width="100%" alt="NADA Studio. Conheça a empresa que estou construindo: desenvolvimento com visão de processo e de negócio."></a>
 
-Conheça os serviços e entre em contato pelo site da **[NADA Studio ↗](https://www.nadastudio.com.br)**.
+<p align="center"><a href="https://www.nadastudio.com.br"><strong>Conheça os serviços e converse sobre seu projeto ↗</strong></a></p>
 
-<sub>As condições de uso de cada projeto estão na respectiva licença. A licença de um repositório não se estende aos demais projetos, marcas ou materiais de clientes.</sub>
+<sub>Licenças: o transcritor utiliza Apache-2.0. Consulte as condições de cada repositório antes de reutilizar código ou materiais. Marcas e materiais de clientes seguem seus respectivos direitos.</sub>
