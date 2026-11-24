@@ -1,4 +1,4 @@
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png"><img src="assets/hero.gif" width="100%" alt="João Paulo Araújo Passos. From the shop floor to software. Process Engineering, Software Development and NADA Studio."></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/v3-hero-static.png"><img src="assets/v3-hero.gif" width="100%" alt="João Paulo Araújo Passos. From the shop floor to software. Process Engineering, Software Development and NADA Studio."></picture>
 
 <p align="center"><a href="https://github.com/HSHAKOA/HSHAKOA#readme"><strong>ENGLISH</strong></a> &nbsp; / &nbsp; <a href="https://github.com/HSHAKOA/HSHAKOA/blob/main/README.pt-BR.md"><strong>PORTUGUÊS</strong></a></p>
 <p align="center"><a href="mailto:passosjoao@outlook.pt">EMAIL ↗</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-ara%C3%BAjo-passos-0568b9257">LINKEDIN ↗</a> &nbsp;·&nbsp; <a href="https://www.nadastudio.com.br">NADA STUDIO ↗</a> &nbsp;·&nbsp; Jundiaí, SP · Brazil</p>
@@ -11,7 +11,7 @@ Atuo entre a operação industrial e o desenvolvimento de software: entendo o fl
 
 ## Resultado em destaque
 
-<img src="assets/impact.svg" width="100%" alt="Packing list: preparação reduzida de 7 para 1 minuto. Economia de 6 minutos por documento e aproximadamente 86% menos tempo nessa tarefa.">
+<img src="assets/v3-impact.svg" width="100%" alt="Packing list: preparação reduzida de 7 para 1 minuto. Economia de 6 minutos por documento e aproximadamente 86% menos tempo nessa tarefa.">
 
 **Packing List — de uma rotina manual para uma aplicação interna.** O tempo de preparação informado passou de **7 para 1 minuto por packing list**: **6 minutos economizados por documento**, equivalente a **85,7% de redução no tempo dessa tarefa**. Esse resultado se refere à preparação do documento, sem extrapolação para a produtividade da fábrica.
 
@@ -19,14 +19,14 @@ O case público apresenta o resultado. Código, documentos internos, informaçõ
 
 ## Projetos selecionados
 
-<img src="assets/case-packing.svg" width="49%" alt="Packing List: 7 to 1 minute preparation. Internal application, private source.">
-<img src="assets/case-extruda.svg" width="49%" alt="Extruda: industrial production planning, materials, quality and traceability. Private source.">
+<img src="assets/v3-case-packing.svg" width="49%" alt="Packing List: 7 to 1 minute preparation. Internal application, private source.">
+<img src="assets/v3-case-extruda.svg" width="49%" alt="Extruda: industrial production planning, materials, quality and traceability. Private source.">
 <br>
-<img src="assets/case-apqp.svg" width="49%" alt="APQP and PPAP: quality, project stages and deliverables. Private project in development.">
-<a href="https://www.nadastudio.com.br"><img src="assets/case-studio.svg" width="49%" alt="NADA Studio: websites, business systems and automation."></a>
+<img src="assets/v3-case-apqp.svg" width="49%" alt="APQP and PPAP: quality, project stages and deliverables. Private project in development.">
+<a href="https://www.nadastudio.com.br"><img src="assets/v3-case-studio.svg" width="49%" alt="NADA Studio: websites, business systems and automation."></a>
 <br>
-<a href="https://github.com/HSHAKOA/Agente-de-transcrito-de-reuni-es-"><img src="assets/case-transcriber.svg" width="49%" alt="Meeting Transcriber: public Python audio application under Apache-2.0."></a>
-<a href="https://github.com/HSHAKOA/barcode-python-academico"><img src="assets/case-barcode.svg" width="49%" alt="Academic Barcode: Python, SQLite, production and inventory demonstration with fictional data."></a>
+<a href="https://github.com/HSHAKOA/Agente-de-transcrito-de-reuni-es-"><img src="assets/v3-case-transcriber.svg" width="49%" alt="Meeting Transcriber: public Python audio application under Apache-2.0."></a>
+<a href="https://github.com/HSHAKOA/barcode-python-academico"><img src="assets/v3-case-barcode.svg" width="49%" alt="Academic Barcode: Python, SQLite, production and inventory demonstration with fictional data."></a>
 
 | Projeto | Minha contribuição | Acesso público |
 | :--- | :--- | :--- |
@@ -75,7 +75,7 @@ Combino conhecimento do processo com implementação. A IA apoia o trabalho; an�
 
 ---
 
-<a href="https://www.nadastudio.com.br"><img src="assets/studio-band.svg" width="100%" alt="NADA Studio. Sites, sistemas e automação."></a>
+<a href="https://www.nadastudio.com.br"><img src="assets/v3-studio-band.svg" width="100%" alt="NADA Studio. Sites, sistemas e automação."></a>
 
 ## Vamos construir uma solução útil?
 
