@@ -1,48 +1,68 @@
-# João Paulo Araujo Passos
+<p align="center">
+  <img src="assets/profile-banner.gif" alt="João Paulo — Engenharia de Processos + Software. Da operação ao código, do problema à solução." width="100%">
+</p>
 
-Engenharia de Processos + Desenvolvimento de Sistemas
+<h1 align="center">João Paulo Araújo Passos</h1>
+<p align="center"><strong>Engenharia de Processos · Desenvolvimento de Sistemas · Fundador da NADA Studio</strong></p>
+<p align="center">
+  <a href="https://www.nadastudio.com.br">Conheça a NADA Studio ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/nada-studio-br">Projetos da empresa</a> &nbsp;·&nbsp;
+  <a href="#projetos-abertos">Explore meus projetos</a>
+</p>
 
-Desenvolvo sistemas web, automações e integrações para reduzir trabalho manual, organizar operações e transformar processos em ferramentas utilizáveis no dia a dia.
+---
 
-Atuo na interseção entre engenharia de processos e software: entendo o fluxo operacional, identifico gargalos e construo soluções para controle, rastreabilidade, atendimento e gestão.
+### Entendo o processo. Construo a ferramenta.
 
-## Áreas de atuação
+Sou profissional de Engenharia de Processos e estudante de Engenharia de Produção, em Jundiaí–SP. Desenvolvo software a partir de problemas que encontro na operação: tarefas repetitivas, informações dispersas, falta de rastreabilidade e controles manuais.
 
-- Desenvolvimento de sistemas web e ferramentas internas
-- Automação de tarefas e integração entre serviços
-- Aplicação de IA em fluxos operacionais
-- Organização, documentação e melhoria de processos
-- Soluções para pequenos negócios e operações industriais
+Na **[NADA Studio](https://www.nadastudio.com.br)**, conecto essa experiência à criação de sites, sistemas e automações para empresas. Meu trabalho une análise do problema, implementação, testes e documentação.
 
-## Projetos em destaque
+| Engenharia e operação | Software e automação | Negócios digitais |
+| :--- | :--- | :--- |
+| Melhoria e padronização de processos | Sistemas web e ferramentas internas | Sites e experiências de conversão |
+| Produção, qualidade e rastreabilidade | APIs, integrações e automações | Mensuração e análise de dados |
+| Desenho técnico, dispositivos e gabaritos | Python, bancos de dados e IA aplicada | Soluções para pequenos negócios |
 
-### [NADA Studio](https://github.com/HSHAKOA/nada-studio)
+### Projetos abertos
 
-Site e portfólio da empresa de tecnologia que fundei em Jundiaí-SP. A NADA Studio desenvolve sites, sistemas e automações para pequenos negócios.
+| Projeto | O que você encontra |
+| :--- | :--- |
+| **[NADA Studio](https://github.com/HSHAKOA/nada-studio)** | Presença digital da empresa: desenvolvimento web, apresentação dos serviços e portfólio. |
+| **[Transcritor de reuniões](https://github.com/HSHAKOA/Agente-de-transcrito-de-reuni-es-)** | Captura e transcrição de áudio com Python, processamento em blocos e documentação. **Licença Apache-2.0.** |
+| **[Barcode Python Acadêmico](https://github.com/HSHAKOA/barcode-python-academico)** | Apontamento de produção, estoque e histórico com Code 128, Tkinter e SQLite. Edição acadêmica com dados fictícios. |
+| **[Reconhecimento de gestos](https://github.com/HSHAKOA/reconhecimento-gestos-python)** | Visão computacional em tempo real com Python, OpenCV e MediaPipe. |
+| **[MarkItDown Converter](https://github.com/HSHAKOA/markitdown-converter)** | Conversão de documentos para Markdown usando a biblioteca MarkItDown. |
+| **[Vitrine Esporte](https://github.com/HSHAKOA/vitrine-esporte)** | Template de catálogo esportivo desenvolvido pela NADA Studio. |
 
-**Tecnologias:** Next.js, React e TypeScript  
-**Site:** [www.nadastudio.com.br](https://www.nadastudio.com.br)
+<details>
+<summary><strong>Ver uma demonstração do projeto acadêmico de barcode</strong></summary>
 
-### Sistemas industriais
+<br>
 
-Experiência no desenvolvimento de sistemas de apoio à produção, rastreabilidade e controle operacional. Os projetos desta área permanecem privados por conterem contexto interno de operação.
+![Demonstração acadêmica: leitura de etiquetas, estoque, histórico e resumo com dados fictícios](https://raw.githubusercontent.com/HSHAKOA/barcode-python-academico/main/assets/demo_fluxo_academico.gif)
 
-### [Transcritor de reuniões](https://github.com/HSHAKOA/Agente-de-transcrito-de-reuni-es-)
+[Veja a documentação e as capturas reais →](https://github.com/HSHAKOA/barcode-python-academico#readme)
 
-Aplicação Python para captura e transcrição local de áudio, com processamento em blocos, execução paralela e escrita incremental em Markdown.
+</details>
 
-### [Reconhecimento de gestos](https://github.com/HSHAKOA/reconhecimento-gestos-python)
+### Além dos repositórios públicos
 
-Sistema de visão computacional com OpenCV e MediaPipe para reconhecer gestos em tempo real e executar comandos com travas de segurança operacional.
+Também desenvolvo soluções para **planejamento e controle da produção, extrusão de PVC, rastreabilidade, gestão APQP/PPAP, agendamentos e integrações comerciais**. Parte desse trabalho está em repositórios privados por envolver operações internas ou projetos de clientes.
 
-## NADA Studio
+### Ferramentas que uso
 
-Sou fundador e desenvolvedor da [NADA Studio](https://www.nadastudio.com.br), empresa de tecnologia de Jundiaí-SP voltada à criação de sites, sistemas e automações para pequenos negócios.
+**Web:** TypeScript · JavaScript · React · Next.js · HTML · CSS  
+**Automação e dados:** Python · Node.js · APIs REST · PostgreSQL · SQLite · Supabase · n8n  
+**Entrega:** Git · GitHub · Cloudflare Workers · Vercel  
+**Engenharia e análise:** SolidWorks · AutoCAD · Power BI · OpenCV · MediaPipe
 
-## Tecnologias comprovadas neste GitHub
+Uso IA para apoiar desenvolvimento e automação, com revisão de código, testes e atenção ao contexto de cada aplicação.
 
-`Next.js` · `React` · `TypeScript` · `JavaScript` · `Python` · `OpenCV` · `MediaPipe` · `APIs REST` · `GitHub` · `Vercel`
+---
 
-## Contato
+### Vamos transformar um processo em uma solução?
 
-[www.nadastudio.com.br](https://www.nadastudio.com.br)
+Conheça os serviços e entre em contato pelo site da **[NADA Studio ↗](https://www.nadastudio.com.br)**.
+
+<sub>As condições de uso de cada projeto estão na respectiva licença. A licença de um repositório não se estende aos demais projetos, marcas ou materiais de clientes.</sub>
